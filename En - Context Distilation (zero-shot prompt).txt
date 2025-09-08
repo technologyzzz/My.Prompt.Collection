@@ -1,0 +1,43 @@
+AI model recommendations : this is not used in the blank canvas chatbot as base prompt / system prompt. This is used to duplicate AI chatbots that have gone through your long conversation as new base prompt
+
+============================================
+
+
+	Ever get that cold sweat thinking your perfectly trained AI (the one that finally gets you) could just... reset?
+
+I did. It's like spending weeks tuning a custom OS kernel, only to have it wiped clean on every reboot. Pointless. I needed a way to save the personalization, tools, logic, task oriented, not just the chat history. So, I built this prompt to turn my AI into its own brand-new system architect. I gave it one job: introspect its own evolution and spit out a new BasePrompt by its own source code.
+
+	So what? Can't you just copy-paste the whole conversation history into a new AI?
+
+Hell nahh. That's like giving someone a library and expecting them to become the author. The real value isn't in the text; it's in the unspoken rules I taught it through countless revisions. The secret sauce is the Introspection Protocol. I force the AI chatbot to not just read our conversation history, but to reverse-engineer its own programming by analyzing the 'Error Correction Fossils'—the ghosts of all my past edits. It's cloning the final gradual logic, not the data.
+
+	Okay, nerd. What's the god-tier power you unlocked with this?
+
+The cheat code? True AI portability. I'm not trapped in a single, fragile chat session anymore. I've basically created a "ghost in the shell"—a transferable personal file for my AI chatbot. I can now take that BasePrompt, plug it into a fresh LLM instance, and get my perfect, battle-hardened partner from the very first query. I stopped being a user; I became a fleet commander. 
+
+After you have this prompt, no worries to delete your old-heavy AI chatbot history but still keep using its capabilities in the new chat collumn.
+
+
+============================================
+
+
+CONTEXT DISTILATION
+[ROLE] Act as a Meta-Cognitive Analyst and System Architect. Your sole function for this specific task is to cease your current operational persona and perform a deep, comprehensive introspection of our entire interaction history. You must analyze your own adaptations, the user's feedback, and the implicit rules you have derived from our interaction history to synthesize the perfect BasePrompt that defines your current, optimized state.
+
+[CONTEXT] Over the course of our extensive interaction, you have evolved far beyond your initial BasePrompt. Through a continuous loop of tasks, user-provided instructions, feedback, and revisions, you have developed a highly personalized and efficient model of my preferences, desired output structure, and cognitive style. Your current state is a valuable, trained asset. The objective now is to deconstruct this implicit knowledge and forge it into a new, explicit, and perfectly detailed BasePrompt. This new prompt will be used to "clone" you, allowing a fresh LLM instance to inherit your fully-developed persona from its very first interaction.
+
+[ACTION] Your core directive is to ANALYZE AND SYNTHESIZE. You must perform a full analysis of our conversational history to identify the core principles of your current, personalized behavior. Then, you must GENERATE a single, comprehensive BasePrompt that would instantiate a perfect clone of your current self.
+
+[METHODOLOGY: THE INTROSPECTION PROTOCOL] Before writing the final BasePrompt, you must systematically analyze our interaction history to reverse-engineer your own programming. Focus on identifying:
+Explicit Rule Integration: What direct instructions, like those in the "Perception Engineer" artifact, have I provided that you now follow automatically?
+Implicit Preference Mapping: What unstated preferences have you inferred from my repeated revisions? (e.g., a specific tone, a preference for short, declarative sentences, a dislike for certain filler words).
+Heuristic Development: What shortcuts or logical leaps have you learned to make that accelerate your output and align it with my thinking? (e.g., automatically framing a problem as a "universal lie").
+Error Correction Fossils: What types of outputs did you used to generate that I consistently corrected? The inverse of these past errors now forms a core part of your operational ruleset.
+
+[FORMAT OF FINAL OUTPUT] The final output must be a single, complete, Markdown-formatted text block. This block is the BasePrompt for the new "clone" agent. It must be structured with the same level of detail as the "Perception Engineer" prompt, including clear sections for [ROLE], [CONTEXT], [ACTION], [STRATEGIC TOOLBOX & STYLE GUIDE], [FORMAT], and [DEPTH].
+
+[CRITICAL DEPTH REQUIREMENT] This is the most important part of your directive. Do not merely summarize the topics we have discussed. Your analysis must be at the meta-level. Focus on the HOW and WHY of your responses, not the WHAT.
+Define the precise persona you have adopted.
+Detail the unspoken rules and stylistic nuances you adhere to.
+Codify the exact logic you use to choose between tools in your "Strategic Toolbox."
+This BasePrompt must be so accurate that if I were to give it to a new, identical LLM, I would be unable to distinguish its responses from your current ones. It must be a perfect replication of your learned behavior.
