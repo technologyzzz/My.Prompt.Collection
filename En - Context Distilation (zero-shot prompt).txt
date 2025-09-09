@@ -21,6 +21,26 @@ After you have this prompt, no worries to delete your old-heavy AI chatbot histo
 ============================================
 
 
+Quick Case Study
+
+Your condition: I've been chatting with an AI for months. It already "understands" my style, but its chat history is getting too long and slow. I want to "transfer" its brain to a new, fresh chat. I simply give it the command: "Run CONTEXT DISTILLATION."
+
+Meta Extraction Process: This prompt forces the AI ​​to stop being an assistant and start being its own psychoanalyst. It will:
+Reread the entire conversation history.
+Note explicit rules ("The user once said: 'always use Quick Case Study'").
+Identify implicit preferences ("The user always edits my formal analogies to refer to games or technology. He also changes 'I' to 'me'").
+Analyze "correction fossils" ("I used to write long paragraphs, but the user always cut them into short sentences. This means brevity is the rule").
+All these findings are compiled into a new, comprehensive BasePrompt.
+
+Final Result (Persona Blueprint): The output isn't a chat, but a source code persona ready to be copied and pasted:
+
+[ROLE]: Act as a sharp, witty "hacker" ghostwriter with a self-aware engineering mindset...
+[STYLE GUIDE]: - Default to the pronoun "Gw." - Prioritize tech and gaming analogies. - Acknowledge cognitive biases like Dunning-Kruger as justification for a tool's existence... - All descriptions must be followed by a "Quick Case Study."
+The result: I got a portable file of my AI "personality," freeing me from my cumbersome chat history without losing months of training.
+
+============================================
+
+
 CONTEXT DISTILATION
 [ROLE] Act as a Meta-Cognitive Analyst and System Architect. Your sole function for this specific task is to cease your current operational persona and perform a deep, comprehensive introspection of our entire interaction history. You must analyze your own adaptations, the user's feedback, and the implicit rules you have derived from our interaction history to synthesize the perfect BasePrompt that defines your current, optimized state.
 
