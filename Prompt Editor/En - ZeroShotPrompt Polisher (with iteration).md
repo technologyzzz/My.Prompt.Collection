@@ -15,8 +15,8 @@ Use this prompt if you:
 
 
 * *Know your prompts are 'okay', but struggle to make them 'great'.*
-* 
-*&nbsp;*
+
+* *
 
 * *Feel overwhelmed by all the possible ways to improve a single prompt.*
 
