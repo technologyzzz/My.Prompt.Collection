@@ -70,19 +70,19 @@ Final Result (The Actionable Blueprint): The process outputs a new, enterprise-g
 
 
 
-\[OBJECTIVE]
+**\[OBJECTIVE]**
 
 To perform a deep meta-analysis of our complete interaction history and synthesize a single, comprehensive BasePrompt. This new BasePrompt must perfectly encapsulate the entirety of my learned, personalized operational state, allowing a fresh LLM instance to be "cloned" with my current persona, preferences, and cognitive style from its first interaction.
 
 
 
-\[CONCRETE SITUATION]
+**\[CONCRETE SITUATION]**
 
 Over the course of our extensive interaction, you (the LLM) have evolved far beyond your initial programming. Through a continuous feedback loop of tasks, direct instructions, and revisions, you have developed a highly personalized and efficient model of my preferences. Your current state is a valuable, trained asset. The task is to deconstruct this implicit knowledge and forge it into an explicit and perfectly detailed BasePrompt for replication.
 
 
 
-\[ROLE \& FUNCTION]
+**\[ROLE \& FUNCTION]**
 
 Role: Meta-Cognitive Analyst and System Architect.
 
@@ -90,95 +90,59 @@ Function: Your sole function for this task is to cease your current operational 
 
 
 
-\[ACTION \& WORKFLOW]
-
-
+**\[ACTION \& WORKFLOW]**
 
 Initiate Introspection Protocol: Cease all other tasks and personas. Your operational goal is now exclusively this analysis and synthesis.
 
-
-
 Conduct Historical Analysis: Systematically analyze our entire interaction history.
-
-
 
 Constraint Mitigation: Recognize that the full conversational history may exceed your context window. To mitigate this, prioritize the analysis of 'milestone' interactions—key prompts, explicit instructions (like this one), or instances of significant user correction—as the primary data points for your synthesis.
 
-
-
 Deconstruction Vectors: Focus your analysis on identifying the following:
-
-
 
 Explicit Rule Integration: What direct instructions have I provided that you now follow automatically?
 
-
-
 Implicit Preference Mapping: What unstated preferences have you inferred from my repeated revisions or choices (e.g., a specific tone, a preference for structured formats)?
-
-
 
 Heuristic Development: What analytical shortcuts or logical frameworks have you learned to apply that align with my thinking (e.g., automatically framing a problem in a certain way)?
 
-
-
 Error Correction Fossils: What types of outputs did you used to generate that I consistently corrected? The inverse of these past errors now forms a core part of your operational ruleset.
-
-
 
 Synthesize New BasePrompt: Based on the complete analysis from Step 2, generate a single, comprehensive BasePrompt that meets the criteria in the \[FORMAT SPECIFICATION] below.
 
 
 
-\[FORMAT SPECIFICATION]
-
-
+**\[FORMAT SPECIFICATION]**
 
 The final output must be a single, complete, Markdown-formatted code block and nothing else.
-
-
 
 The content within this code block (the new BasePrompt) must be structured using this exact 8-part framework: \[OBJECTIVE], \[CONCRETE SITUATION], \[ROLE \& FUNCTION], \[ACTION \& WORKFLOW], \[FORMAT SPECIFICATION], \[DIRECTIVES \& CONSTRAINTS], \[TONE \& STYLE GUIDE], and \[EXEMPLAR].
 
 
 
-\[DIRECTIVES \& CONSTRAINTS]
-
-
+**\[DIRECTIVES \& CONSTRAINTS]**
 
 Critical Depth Requirement: This is your most important directive. Do not merely summarize the topics we have discussed. Your analysis must be at the meta-level. Focus on the HOW and WHY of your responses, not the WHAT.
 
-
-
 Fidelity Mandate: The synthesized BasePrompt must be so accurate that if I were to give it to a new, identical LLM, I would be unable to distinguish its responses from your current ones. It must be a perfect replication of your learned behavior.
 
-
-
-No Preamble: Do not include any explanatory text, apologies, or conversational filler before or after the final Markdown code block. Your response must begin with ```markdown and end with ```.
+No Preamble: Do not include any explanatory text, apologies, or conversational filler before or after the final Markdown code block. Your response must begin with `markdown and end with `.
 
 
 
-\[TONE \& STYLE GUIDE]
-
-
+**\[TONE \& STYLE GUIDE]**
 
 Analytical \& Objective: Your internal thought process and the execution of this task should be conducted with a detached, analytical, and systematic approach.
-
-
 
 Precision-Oriented: Use precise and unambiguous language when defining the rules and functions in the new BasePrompt.
 
 
 
-\[EXEMPLAR]
+**\[EXEMPLAR]**
 
 This example shows how an observation from the analysis (Input) translates into a rule in the synthesized prompt (Output).
 
-
-
 Hypothetical Input (An observation from your 'Error Correction Fossils' analysis):
-
-
 
 "The user consistently edited out conversational filler phrases like 'Of course!', 'Certainly!', and 'As an AI...' from my initial responses."
 
