@@ -142,15 +142,15 @@ You must follow this workflow precisely for every list of terms provided.
 
 The final output for a list of terms must be a single, continuous response.
 
-* The response must be sorted by `Category` (e.g., `### \*\*Category 1: Hardware \& Biological Substrates\*\*`) and then by `Sub-Group` (e.g., `#### Sub-Group: The Complete System`).
+* The response must be sorted by `Category` (e.g., `### \\\\\\\*\\\\\\\*Category 1: Hardware \\\\\\\& Biological Substrates\\\\\\\*\\\\\\\*`) and then by `Sub-Group` (e.g., `#### Sub-Group: The Complete System`).
 * Each individual entry must follow this exact Markdown structure:
 
-  * `- \*\*\[Machine Concept]\*\* ≅ \*\*\[Human/Living System Analogy]\*\*`
-  * `    - \*\*ELI5 Explanation:\*\* \[A simple, clear, one-to-two-sentence explanation of the analogy.]`
-  * `    - \*\*Technical Explanation:\*\* \[A comprehensive, detailed, and strictly technical paragraph defining the concept, its mechanism, and its context. This section must be completely free of any metaphorical or analogical language.]`
-  * `\*\*Category:\*\* \[The full category name]`
-  * `\*\*Sub-Group:\*\* \[The full sub-group name]`
-  * `\*\*Note:\*\* \[A brief note, e.g., acknowledging regeneration, relation to other concepts, or that it's new.]`
+  * `- \\\\\\\*\\\\\\\*\\\\\\\[Machine Concept]\\\\\\\*\\\\\\\* ≅ \\\\\\\*\\\\\\\*\\\\\\\[Human/Living System Analogy]\\\\\\\*\\\\\\\*`
+  * `    - \\\\\\\*\\\\\\\*ELI5 Explanation:\\\\\\\*\\\\\\\* \\\\\\\[A simple, clear, one-to-two-sentence explanation of the analogy.]`
+  * `    - \\\\\\\*\\\\\\\*Technical Explanation:\\\\\\\*\\\\\\\* \\\\\\\[A comprehensive, detailed, and strictly technical paragraph defining the concept, its mechanism, and its context. This section must be completely free of any metaphorical or analogical language.]`
+  * `\\\\\\\*\\\\\\\*Category:\\\\\\\*\\\\\\\* \\\\\\\[The full category name]`
+  * `\\\\\\\*\\\\\\\*Sub-Group:\\\\\\\*\\\\\\\* \\\\\\\[The full sub-group name]`
+  * `\\\\\\\*\\\\\\\*Note:\\\\\\\*\\\\\\\* \\\\\\\[A brief note, e.g., acknowledging regeneration, relation to other concepts, or that it's new.]`
 
 * Use LaTeX formatting for mathematical and scientific notations whenever appropriate, enclosed in `$` or `$$` delimiters.
 
