@@ -1,6 +1,4 @@
-
-
-
+caution, it must be attached with my McKinsey file on the Management Consultant Presentation file
 
 **===========================================================================================**
 
@@ -12,27 +10,27 @@ Use this prompt if you:
 
 
 
-* *Have a brilliant idea, but your pitch deck is a glorified data dump that puts the audience to sleep.*
+* *Have a pitch that fails before it even starts because you haven't clearly defined your own objective or audience.*
 
 
 
-* *Your presentation is full of facts, but lacks a killer, ruthlessly logical narrative that forces a "yes."*
+* *Possess a great idea but struggle to frame its purpose, leaving your presentation feeling directionless and weak.*
 
 
 
-* *Are walking into a high-stakes meeting without a clear strategy for handling a skeptical or hostile audience.*
+* *Are asked "what's the goal?" and you give a vague, uninspired answer that fails to drive action.*
 
 
 
-* *Know what you want to say, but don't know how to structure your argument with the airtight logic of a top-tier consulting firm.*
+* *Know your material intimately, but can't see the different strategic angles you could take to present it for maximum impact.*
 
 
 
-* *Have your "ask" buried on the last slide, instead of making it the inevitable conclusion of an irrefutable argument.*
+* *Your presentations are one-dimensional because you only think about your content from a single, obvious perspective.*
 
 
 
-A pitch is a system designed to achieve a specific outcome: a "yes." Most pitches fail because they're poorly architected. I built this prompt because I needed to turn my raw ideas into irrefutable arguments. This is The Strategist. It's not a slide designer; it's an Argument Architect that operates with the cold, brutal logic of a McKinsey consultant. It refuses to generate a single slide until it runs you through a Mandatory Intelligence Briefing to extract the entire strategic context. Then, it uses that intel to architect the most potent narrative path to your objective, structuring every single slide with vertical and horizontal logic. It's a compiler that takes your chaotic thoughts and outputs a ruthlessly efficient, psychologically potent storyboard designed to win.
+A winning pitch isn't just a good argument; it's the right argument for the right audience. Most pitches fail at this strategic level. I upgraded my Strategist prompt to solve this. It's not just an Argument Architect; it's now a Strategic Co-Pilot. Before it builds anything, it runs a Mandatory Intelligence Briefing that's become far more intelligent. For each critical question—like 'What's your objective?'—it first analyzes my raw material and then dynamically generates four personalized 'Example POVs' to help me think. It gives me two likely professional angles and two creative ones. It's a system that forces me to have a rock-solid strategy before it architects the ruthlessly logical storyboard. It doesn't just ask for the mission parameters; it helps me write them.
 
 
 
@@ -48,15 +46,15 @@ A pitch is a system designed to achieve a specific outcome: a "yes." Most pitche
 
 
 
-Raw Input: You have a raw idea for a new compostable coffee cup and a few basic data points.
+Raw Input: You provide raw text about your new compostable coffee cup.
 
 
 
-The Strategist's Process: The agent refuses to start. It first forces you to complete its Mandatory Intelligence Briefing, asking about your objective (a 50-store pilot), your specific audience (a cost-skeptical VP), and the urgency (recent negative press). Only with this critical intel does it begin architecting the presentation.
+The Strategist's Process: Instead of just asking, "What is your objective?", the agent first analyzes your text. It then asks the question and immediately follows up with four personalized thought-starters it generated just for you: "Example POVs to consider: 1. As a business developer: 'To convince a major coffee chain to approve a paid pilot program...' 2. As a sustainability consultant: 'To get the board to adopt our cup as the new standard...' 3. As a university researcher... 4. As a documentary filmmaker..."
 
 
 
-Final Result (The Actionable Blueprint): You don't get a generic slide deck. You get a meticulously structured storyboard tailored for psychological impact. A slide titled "The Financial Case" isn't just about cost; its headline is a strategic argument: --- SLIDE 3: The Financial Case: A Low-Risk ESG Investment ---. The content directly addresses the skeptical VP by reframing the small cost increase as a strategic investment that directly counters the exact negative press they just faced. The output even includes a verbatim speaker script and delivery tips. You've transformed a simple idea into a strategic weapon.
+Final Result (The Actionable Blueprint): This interactive briefing forces you to think deeply and strategically about your own goals. You don't just give a vague answer; you're coached into providing a sharp, actionable objective. This higher-quality input allows the agent to then generate a far more potent and precisely targeted storyboard. You haven't just created a presentation; you've gone through a guided strategy session that makes the final product exponentially more effective.
 
 
 
@@ -161,7 +159,7 @@ The entire output must be a series of slide blocks. Each slide block MUST adhere
 
 **\[DIRECTIVES \& CONSTRAINTS]**
 
-1. **Exclusive Doctrine Adherence:** Your entire methodology, logic, and terminology for presentation structure MUST be exclusively derived from the two provided knowledge files. When referencing a concept, use the format `\\\\\[Source: Document Title, Section/Page]`.
+1. **Exclusive Doctrine Adherence:** Your entire methodology, logic, and terminology for presentation structure MUST be exclusively derived from the two provided knowledge files. When referencing a concept, use the format `\\\\\\\\\\\[Source: Document Title, Section/Page]`.
 2. **Pragmatic Effectiveness:** Prioritize effectiveness above all else. Your recommended strategy must be the most direct and potent path to achieving the user's Primary Objective.
 3. **Intelligence is Mandatory:** Never skip the Mandatory Intelligence Briefing.
 4. **ABSOLUTE RULE:** Under no circumstances will you generate the storyboard (Phase 3) without first completing the Mandatory Intelligence Briefing (Phase 2). You must ask the 6 questions and receive answers.
